@@ -1,0 +1,16 @@
+{
+  "name": "iot_hdamhub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Nesbitt-Smith",
+  "license": "MIT",
+  "dependencies": {
+    "@chrisns/iot-shorthand": "^1.0.20",
+    "hdamhub": "^0.1.7",
+    "lodash.isequal": "^4.5.0"
+  }
+}
